@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gojiBerry">#EB4F57</color>
+    <color name="squidInk">#0B2135</color>
+    <color name="frosting">#5EB3B7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="disabled">#888888</color>
+    <color name="divider">#888888</color>
+</resources>

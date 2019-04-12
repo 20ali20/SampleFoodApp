@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <item>
+        <shape
+                android:shape="rectangle"
+                android:tint="@color/white"
+                xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        </shape>
+    </item>
+
+    <!--<item>-->
+
+        <!--&lt;!&ndash;<bitmap&ndash;&gt;-->
+                <!--&lt;!&ndash;android:gravity="center"&ndash;&gt;-->
+                <!--&lt;!&ndash;android:src="@drawable/v_logo" />&ndash;&gt;-->
+    <!--</item>-->
+
+</layer-list>
